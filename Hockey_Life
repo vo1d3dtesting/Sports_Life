@@ -3,13 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Read Me</title>
+    <title>Hockey Life - Read Me</title>
 </head>
 <body>
-    <h1>welcome to Hockey Life read me</h1>
-    <p>Track you or someone elses stats either life or post game.
-User content is stored on the device and is not transmitted unless 
-the user decides to email information themselves.</p>
+    <h1>Welcome to Hockey Life Read Me</h1>
+    <p>
+        Track your or someone else's stats either live or post-game. 
+        This is a free-to-download, free-to-use, and ad-free app for Android 
+        devices (an iPhone app will hopefully be coming soon). User content is 
+        stored on the device and is not transmitted unless 
+        the user decides to email the information themselves. 
+        Please see our <a href="privacy-policy.html">privacy policy here</a>.
+    </p>
     <a href="https://developer.mozilla.org">Learn more on MDN</a>
 </body>
 </html>
