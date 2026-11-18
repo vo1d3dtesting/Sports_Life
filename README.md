@@ -6,7 +6,7 @@
     <title>Read Me</title>
 </head>
 <body>
-    <h1>welcome to Sports Life read me</h1>
+    <h1>Welcome To Sports Life</h1>
     <p>Sports Life Apps.Hockey Life</p>
     <a href="https://developer.mozilla.org">Learn more on MDN</a>
 </body>
